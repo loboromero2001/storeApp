@@ -1,0 +1,32 @@
+.titleName{
+	color: #800000;
+	font-family: "Times New Roman", Times, serif;
+
+}
+/*.bassObjects{
+	height: 40px
+	background-color: black;
+	border: 5px solid black;*/
+.buyButtons{
+ margin: 10px;
+  width: 200px;
+  height: 30px;
+  background-color: blue;
+  border: 2px solid black;
+}
+body{
+	background-color: #999999;
+}
+.imageBorders{
+  border: 2px solid black;
+}
+.contact-address{
+	color: #800000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px
+}
+.address-info{
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+
+}
